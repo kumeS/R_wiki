@@ -1,1 +1,3 @@
-# R_wiki
+# GNU R wiki
+
+## Japanese
